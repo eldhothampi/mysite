@@ -1,0 +1,20 @@
+.headerTitle{
+    color:white
+   
+
+}
+.navTitle{
+    color:white
+
+}
+.aboutme{
+    color:white
+}
+
+.circular{
+    border-radius: 50%;
+    height: 20em;
+    width: 20em;
+    padding:2em;
+    margin:-1em
+}
